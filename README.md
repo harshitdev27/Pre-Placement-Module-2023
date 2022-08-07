@@ -1,9 +1,9 @@
 # Pre-Placement-Module-2023
 
-- Name: 
-- University Roll No.:
-- Branch:
-- Section:
+- Name: harshit kumar dev
+- University Roll No.:2000290009011
+- Branch:civil
+- Section:A
 - Preferred Programming Language: C++/Java/Python
 
 ## Coding Profiles
